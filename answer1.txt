@@ -1,7 +1,11 @@
-You're leading a team on a project, and one of your team members consistently fails to meet deadlines. How would you address this issue?
+1.) You're leading a team on a project, and one of your team members consistently fails to meet deadlines. How would you address this issue?
+
 You've encountered a technical problem in a project that you're not familiar with. How would you go about finding a solution?
+
 A critical component in your project is delayed due to supply chain issues. How would you adjust the project timeline and communicate this to stakeholders?
+
 Your team is divided on a technical decision. How would you facilitate a resolution and ensure consensus?
+
 You're working on a project that requires collaboration with cross-functional teams. How would you ensure effective communication and coordination between teams?
 A client requests changes to the project scope midway through the project. How would you evaluate the impact of these changes and communicate them to the team?
 Your project is behind schedule, and stakeholders are becoming concerned. How would you address their concerns and regain their confidence in the project's success?
